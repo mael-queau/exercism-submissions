@@ -1,6 +1,6 @@
 def is_armstrong_number(number):
     str = f'{number}'
-    length = str.__len__()
+    length = len(str)
     digits = []
     for i in range(0, length):
         digits.append(int(str[i]))

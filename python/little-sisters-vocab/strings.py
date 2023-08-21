@@ -29,7 +29,7 @@ def make_word_groups(vocab_words):
     """
 
     res = vocab_words[0]
-    for word in range(1, vocab_words.__len__()):
+    for word in range(1, len(vocab_words)):
         res += ' :: '
         res += vocab_words[0] + vocab_words[word]
     return res

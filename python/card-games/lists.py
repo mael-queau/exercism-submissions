@@ -46,7 +46,7 @@ def card_average(hand):
     :return: float - average value of the cards in the hand.
     """
 
-    return sum(hand) / hand.__len__()
+    return sum(hand) / len(hand)
 
 
 def approx_average_is_average(hand):
@@ -57,7 +57,7 @@ def approx_average_is_average(hand):
     """
 
     avg_first_last = (hand[0] + hand[-1]) / 2
-    median = hand[math.floor(hand.__len__() / 2)]
+    median = hand[math.floor(len(hand) / 2)]
     return card_average(hand) in [avg_first_last, median]
 
 

@@ -4,7 +4,7 @@
 # + return - the acronym
 function abbreviate(string phrase) returns string {
     string:RegExp delimiter = re `[-\s]+`;
-    string[] words = delimiter.split(re `[^a-zA-Z-\s]`.replaceAll(phrase, ""));
+    string[] words = delimiter.split(re `[^a-zA-Z-\s]`.replaceAll(phrase, "")).'map(w => w[0]);
 
-    return string:'join("", ...words.map(w => w[0].toUpperAscii()));
+    return string:'join("", ...words).toUpperAscii();
 }

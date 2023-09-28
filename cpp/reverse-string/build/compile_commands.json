@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/mael/exercism/cpp/reverse-string/build",
+  "command": "/usr/bin/c++   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/reverse-string.dir/reverse_string_test.cpp.o -c /home/mael/exercism/cpp/reverse-string/reverse_string_test.cpp",
+  "file": "/home/mael/exercism/cpp/reverse-string/reverse_string_test.cpp",
+  "output": "CMakeFiles/reverse-string.dir/reverse_string_test.cpp.o"
+},
+{
+  "directory": "/home/mael/exercism/cpp/reverse-string/build",
+  "command": "/usr/bin/c++   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/reverse-string.dir/reverse_string.cpp.o -c /home/mael/exercism/cpp/reverse-string/reverse_string.cpp",
+  "file": "/home/mael/exercism/cpp/reverse-string/reverse_string.cpp",
+  "output": "CMakeFiles/reverse-string.dir/reverse_string.cpp.o"
+},
+{
+  "directory": "/home/mael/exercism/cpp/reverse-string/build",
+  "command": "/usr/bin/c++   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/reverse-string.dir/test/tests-main.cpp.o -c /home/mael/exercism/cpp/reverse-string/test/tests-main.cpp",
+  "file": "/home/mael/exercism/cpp/reverse-string/test/tests-main.cpp",
+  "output": "CMakeFiles/reverse-string.dir/test/tests-main.cpp.o"
+}
+]

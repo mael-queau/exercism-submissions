@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/mael/exercism/cpp/allergies/build",
+  "command": "/usr/bin/c++   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/allergies.dir/allergies_test.cpp.o -c /home/mael/exercism/cpp/allergies/allergies_test.cpp",
+  "file": "/home/mael/exercism/cpp/allergies/allergies_test.cpp",
+  "output": "CMakeFiles/allergies.dir/allergies_test.cpp.o"
+},
+{
+  "directory": "/home/mael/exercism/cpp/allergies/build",
+  "command": "/usr/bin/c++   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/allergies.dir/allergies.cpp.o -c /home/mael/exercism/cpp/allergies/allergies.cpp",
+  "file": "/home/mael/exercism/cpp/allergies/allergies.cpp",
+  "output": "CMakeFiles/allergies.dir/allergies.cpp.o"
+},
+{
+  "directory": "/home/mael/exercism/cpp/allergies/build",
+  "command": "/usr/bin/c++   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/allergies.dir/test/tests-main.cpp.o -c /home/mael/exercism/cpp/allergies/test/tests-main.cpp",
+  "file": "/home/mael/exercism/cpp/allergies/test/tests-main.cpp",
+  "output": "CMakeFiles/allergies.dir/test/tests-main.cpp.o"
+}
+]

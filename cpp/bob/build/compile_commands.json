@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/mael/exercism/cpp/bob/build",
+  "command": "/usr/bin/c++   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/bob.dir/bob_test.cpp.o -c /home/mael/exercism/cpp/bob/bob_test.cpp",
+  "file": "/home/mael/exercism/cpp/bob/bob_test.cpp",
+  "output": "CMakeFiles/bob.dir/bob_test.cpp.o"
+},
+{
+  "directory": "/home/mael/exercism/cpp/bob/build",
+  "command": "/usr/bin/c++   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/bob.dir/bob.cpp.o -c /home/mael/exercism/cpp/bob/bob.cpp",
+  "file": "/home/mael/exercism/cpp/bob/bob.cpp",
+  "output": "CMakeFiles/bob.dir/bob.cpp.o"
+},
+{
+  "directory": "/home/mael/exercism/cpp/bob/build",
+  "command": "/usr/bin/c++   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/bob.dir/test/tests-main.cpp.o -c /home/mael/exercism/cpp/bob/test/tests-main.cpp",
+  "file": "/home/mael/exercism/cpp/bob/test/tests-main.cpp",
+  "output": "CMakeFiles/bob.dir/test/tests-main.cpp.o"
+}
+]

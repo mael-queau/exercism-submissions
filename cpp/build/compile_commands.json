@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/mael/exercism/cpp/build",
+  "command": "/usr/bin/c++   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/high-scores.dir/high_scores_test.cpp.o -c /home/mael/exercism/cpp/high-scores/high_scores_test.cpp",
+  "file": "/home/mael/exercism/cpp/high-scores/high_scores_test.cpp",
+  "output": "CMakeFiles/high-scores.dir/high_scores_test.cpp.o"
+},
+{
+  "directory": "/home/mael/exercism/cpp/build",
+  "command": "/usr/bin/c++   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/high-scores.dir/high_scores.cpp.o -c /home/mael/exercism/cpp/high-scores/high_scores.cpp",
+  "file": "/home/mael/exercism/cpp/high-scores/high_scores.cpp",
+  "output": "CMakeFiles/high-scores.dir/high_scores.cpp.o"
+},
+{
+  "directory": "/home/mael/exercism/cpp/build",
+  "command": "/usr/bin/c++   -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/high-scores.dir/test/tests-main.cpp.o -c /home/mael/exercism/cpp/high-scores/test/tests-main.cpp",
+  "file": "/home/mael/exercism/cpp/high-scores/test/tests-main.cpp",
+  "output": "CMakeFiles/high-scores.dir/test/tests-main.cpp.o"
+}
+]

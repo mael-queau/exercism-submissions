@@ -1,0 +1,4 @@
+/home/mael/exercism/cpp/build/CMakeFiles/high-scores.dir
+/home/mael/exercism/cpp/build/CMakeFiles/test_high-scores.dir
+/home/mael/exercism/cpp/build/CMakeFiles/edit_cache.dir
+/home/mael/exercism/cpp/build/CMakeFiles/rebuild_cache.dir

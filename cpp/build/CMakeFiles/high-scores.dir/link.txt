@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -L/usr/local/opt/ruby/lib "CMakeFiles/high-scores.dir/high_scores_test.cpp.o" "CMakeFiles/high-scores.dir/high_scores.cpp.o" "CMakeFiles/high-scores.dir/test/tests-main.cpp.o" -o high-scores 
